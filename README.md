@@ -2,6 +2,8 @@
 
 I love the new photo feed for web but I love it even more with my friend's photos contrasted against a darker canvas.
 
+<img src="https://raw.github.com/connors/instagram-user-style/master/screenshot.png" alt="screenshot" />
+
 ## Notes
 Feel free to send any questions or feedback to [connors@connorsears.com][1] or find me on Twitter at @[connors][2].
 

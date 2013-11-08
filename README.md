@@ -1,4 +1,4 @@
-# Instagram.com user style
+# [Instagram.com user style](http://connors.github.io/simple-user-styles/#instagram)
 
 I love the new photo feed for web but I love it even more with my friend's photos contrasted against a darker canvas.
 

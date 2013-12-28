@@ -2,7 +2,7 @@
 ======================================================= */
 
 /* Change the color of the page background to be dark. Provides more contrast for the photos. */
-body.page-feed {
+body.timelineFeedPage {
 background: #252525;
 }
 div.timelineCenter {

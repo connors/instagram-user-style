@@ -13,6 +13,8 @@ border: 0;
         box-shadow: none;
 }
 
+.main {background-color: #252525;}
+
 /* Makes the text readable on the new dark background. */
 .timelineBookmarkInfoTimestamp,
 .timelineBookmarkLocation,
